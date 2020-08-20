@@ -175,7 +175,7 @@ h1, h2, h3, h4, h5, h6,
 .hero-section h1 span:hover {
   cursor: pointer;
   border-radius: 50px;
-  background: rgb(255 255 255 / 16%);
+  background: rgb(255, 255, 255, 16%);
   background-position: 400px 0;
 }
 
@@ -192,13 +192,13 @@ h1, h2, h3, h4, h5, h6,
 
 .hero-section h1 span.sub:hover {
   border-radius: 50px;
-  background: rgb(255 255 255 / 16%);
+  background: rgb(255, 255, 255, 16%);
   background-position: 400px 0;
 }
 
 .hero-section h1 span.sub.k-diff:hover {
   border-radius: 50px;
-  background: rgb(255 255 255 / 16%);
+  background: rgb(255, 255, 255, 16%);
   background-position: 400px 0;
 }
 
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6,
   .hero-section h1 span.sub:hover,
   .hero-section h1 span.sub.k-diff:hover {
     border-radius: 50px;
-    background: rgb(255 255 255 / 16%);
+    background: rgb(255, 255, 255, 16%);
     background-position: 400px 0;
   }
 
@@ -286,6 +286,10 @@ h1, h2, h3, h4, h5, h6,
     width: 100%;
     text-align: center;
     margin: 15px auto;
+  }
+
+  .first.padd h1 span {
+      padding-left: 0!important;
   }
 }
 

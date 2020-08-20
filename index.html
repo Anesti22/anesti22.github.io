@@ -17,7 +17,7 @@
             <header class="hero-section">
                 <div class="container align-items-center">
                     <div class="mx-auto text-center align-block">
-                        <div class="first">
+                        <div class="first padd">
                             <h1 class="mx-auto my-0 text-uppercase">Hello, <span>I'm Anesti Gjikoka</span></h1>
                         </div>
                         <div class="second">
