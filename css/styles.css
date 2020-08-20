@@ -283,15 +283,9 @@ h1, h2, h3, h4, h5, h6,
 
 @media (max-width: 640px) {
   .second.two h1 span{
-    display: block;
-    width: 90%;
+    width: 100%;
     text-align: center;
     margin: 15px auto;
-  }
-
-  .first h1 span {
-      display: inline-block;
-      line-height: 1.3;
   }
 }
 
