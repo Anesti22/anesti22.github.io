@@ -22,8 +22,8 @@
                         </div>
                         <div class="second">
                             <h1 class="mx-auto my-0 text-uppercase"><span class="sub">Web Developer, </span></h1>
-                            <h1 class="mx-auto my-0 text-uppercase"><span class="sub k-diff">Wordpress theme Developer</span></h1>
-                            <h1 class="mx-auto my-0 text-uppercase"><span class="sub">Shopify Theme Developer, </span></h1>
+                            <h1 class="mx-auto my-0 text-uppercase"><span class="sub k-diff">Wordpress Developer</span></h1>
+                            <h1 class="mx-auto my-0 text-uppercase"><span class="sub">Shopify Developer, </span></h1>
                         </div>
                         
                         <div class="first up">
