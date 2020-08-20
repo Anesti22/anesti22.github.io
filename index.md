@@ -50,7 +50,7 @@
             </header>
     
             <!-- Footer-->
-            <footer class="footer bg-black small text-center text-white-50"><div class="container">Copyright © <a href="https://anestigjikoka.github.io">anestigjikoka.io</a> 2020</div></footer>
+            <footer class="footer bg-black small text-center text-white-50"><div class="container">Copyright © <a href="https://anesti22.github.io">anestigjikoka.io</a> 2020</div></footer>
         </div>
 
     </body>
