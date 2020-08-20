@@ -221,6 +221,20 @@ h1, h2, h3, h4, h5, h6,
   padding-top: 5%;
 }
 
+
+@media(hover: hover) and (pointer: fine) {
+  .hero-section h1 span.sub:hover,
+  .hero-section h1 span.sub.k-diff:hover {
+    border-radius: 50px;
+    background: rgb(255 255 255 / 16%);
+    background-position: 400px 0;
+  }
+
+  .hero-section h1:hover {
+    -webkit-text-fill-color: #ffecec;
+  }
+}
+
 @media (min-width: 992px) {
 
   .hero-section {
