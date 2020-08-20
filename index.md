@@ -43,6 +43,7 @@
                             </h1>
                             <h1 class="mx-auto my-0 text-uppercase">
                                 <span class="sub">Php, WP, RestApi</span>
+                                <span class="sub">liquid</span>
                             </h1>
                         </div>
                     </div>
