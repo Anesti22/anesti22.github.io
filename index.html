@@ -11,8 +11,8 @@
         <link href="css/styles.css" rel="stylesheet" />
     </head>
     <body>
-
         <div class="wrapper-anesti">
+            <div id="particles-js"></div>
             <!-- Masthead-->
             <header class="hero-section">
                 <div class="container align-items-center">
@@ -54,6 +54,8 @@
             <!-- Footer-->
             <footer class="footer bg-black small text-center text-white-50"><div class="container">Copyright © <a href="https://anesti22.github.io">anestigjikoka.io</a> 2020</div></footer>
         </div>
-
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+        <script src="./js/particles.min.js"></script>
+        <script src="./js/app.js"></script>
     </body>
 </html>

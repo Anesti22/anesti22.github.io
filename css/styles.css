@@ -23,6 +23,7 @@ body {
   text-align: left;
   background-color: #000;
   display: block;
+  position: relative;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -100,8 +101,10 @@ h1, h2, h3, h4, h5, h6,
 
 
 .wrapper-anesti {
-  height: 100vh;
+  /* height: 100vh; */
   background: black;
+  position: relative;
+  z-index: 2;
 }
 
 .container {
@@ -269,6 +272,8 @@ h1, h2, h3, h4, h5, h6,
 .second {
   display: inline-block;
   text-align: center;
+  position: relative;
+  z-index: 10;
 }
 
 .second.two{
@@ -276,6 +281,8 @@ h1, h2, h3, h4, h5, h6,
   text-align: center;
   max-width: 900px;
   margin: 0 auto;
+  position: relative;
+  z-index: 10;
 }
 
 .second.two h1{
@@ -318,6 +325,8 @@ h1, h2, h3, h4, h5, h6,
   max-width: 530px;
   margin: 0 auto;
   text-align: left;
+  z-index: 10;
+  position: relative;
 }
 
 .first.padd.img-t img {
@@ -365,4 +374,12 @@ h1, h2, h3, h4, h5, h6,
 
 .footer {
   padding: 5rem 0;
+}
+
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
 }
