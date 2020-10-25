@@ -18,7 +18,7 @@
                 <div class="container align-items-center">
                     <div class="mx-auto text-center align-block">
                         <div class="first padd img-t">
-                            <a href="https://al.linkedin.com/in/anesti-gjikoka-104a514a" target="_blank"><img class="pulse" src="./assets/img/anesti-gjikoka.jpg" alt=""></a>
+                            <a href="https://www.linkedin.com/in/anesti-gjikoka-104a514a" target="_blank"><img class="pulse" src="./assets/img/anesti-gjikoka.jpg" alt=""></a>
                             <h1 class="mx-auto my-0 text-uppercase">Hello, <span>I'm Anesti Gjikoka</span></h1>
                         </div>
                         <div class="second">
